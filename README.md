@@ -34,7 +34,7 @@ $ bin/kafka-server-start.sh config/server.properties
   - Consumer.scala
   - Redirector.scala
   - config file
-- Research Kafka security, spec. how to auth consumers
+- Research Kafka security, spec. how to auth Consumers
 
 Before 12/20/2020:    
 - Sketch out idea
